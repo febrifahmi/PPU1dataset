@@ -1,0 +1,62 @@
+<annotation>
+	<folder>testgabung</folder>
+	<filename>testgabung_IMG_20220707_103113.jpg</filename>
+	<path>D:\CODING\ARBID2022\arbid2022\img\testgabung\testgabung_IMG_20220707_103113.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>674</ymin>
+			<xmax>875</xmax>
+			<ymax>1258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>793</ymin>
+			<xmax>668</xmax>
+			<ymax>1131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>551</ymin>
+			<xmax>761</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>724</ymin>
+			<xmax>608</xmax>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+</annotation>

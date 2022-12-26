@@ -1,0 +1,50 @@
+<annotation>
+	<folder>testgabung</folder>
+	<filename>testgabung_IMG_20220715_170049.jpg</filename>
+	<path>D:\CODING\ARBID2022\arbid2022\img\testgabung\testgabung_IMG_20220715_170049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>251</ymin>
+			<xmax>768</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>550</ymin>
+			<xmax>436</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>686</ymin>
+			<xmax>273</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

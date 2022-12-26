@@ -1,0 +1,98 @@
+<annotation>
+	<folder>testgabung</folder>
+	<filename>testgabung_IMG_20220707_101054.jpg</filename>
+	<path>D:\CODING\ARBID2022\arbid2022\img\testgabung\testgabung_IMG_20220707_101054.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>810</ymin>
+			<xmax>410</xmax>
+			<ymax>1081</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>820</ymin>
+			<xmax>649</xmax>
+			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>834</ymin>
+			<xmax>818</xmax>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete column</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>858</ymin>
+			<xmax>944</xmax>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>810</ymin>
+			<xmax>482</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>827</ymin>
+			<xmax>725</xmax>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>concrete beam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>793</ymin>
+			<xmax>96</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

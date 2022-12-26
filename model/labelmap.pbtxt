@@ -1,0 +1,59 @@
+item {
+  name: 'concrete column'
+  id: 1
+  display_name: 'concrete column'
+}
+
+item {
+  name: 'concrete beam'
+  id: 2
+  display_name: 'concrete beam'
+}
+
+item {
+  name: 'stairs'
+  id: 3
+  display_name: 'stairs'
+}
+
+item {
+  name: 'steps'
+  id: 4
+  display_name: 'steps'
+}
+
+item {
+  name: 'steel beam'
+  id: 5
+  display_name: 'steel beam'
+}
+
+item {
+  name: 'crack'
+  id: 6
+  display_name: 'crack'
+}
+
+item {
+  name: 'steel column'
+  id: 7
+  display_name: 'steel column'
+}
+
+item {
+  name: 'stair'
+  id: 8
+  display_name: 'stair'
+}
+
+item {
+  name: 'debris'
+  id: 9
+  display_name: 'debris'
+}
+
+item {
+  name: 'bricks'
+  id: 10
+  display_name: 'bricks'
+}

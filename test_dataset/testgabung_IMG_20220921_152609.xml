@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testgabung</folder>
+	<filename>testgabung_IMG_20220921_152609.jpg</filename>
+	<path>D:\CODING\ARBID2022\arbid2022\img\testgabung\testgabung_IMG_20220921_152609.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1098</xmin>
+			<ymin>1665</ymin>
+			<xmax>1922</xmax>
+			<ymax>1806</ymax>
+		</bndbox>
+	</object>
+</annotation>
